@@ -1,0 +1,44 @@
+crear un array
+hay que escribir el array asociativo(nombre del campo con el numero
+[indice]=valor;
+
+var_dump($variable); --> aca te muestra como esta guardado el array
+---------------------------
+$v[1]=90;
+
+foreach($v as $dato)
+{
+
+}
+----------ejer 10 -------
+
+
+$listado(lapicera1,lapicera2,lapicera3);
+
+foreach($listado as $lapicera)
+{
+	echo $lapicera['color'];
+}
+
+-----------------------------------
+
+SINTAXIS A LA PROGRAMACION ORIENTADA A OBJETOS
+
+requires
+require one
+
+crear una clase padre
+
+index
+
+
+
+-------------------------------------
+ 
+octavio.com.ar
+|-> tuars.com
+|-> hostinger
+|-> QQQwebhost
+
+
+
